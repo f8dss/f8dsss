@@ -1,7 +1,7 @@
 {
   "name": "f8dsss",
   "version": "4.1.0",
-  "private": false,
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
